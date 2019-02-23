@@ -1,6 +1,6 @@
 {
   "name": "simple-iso8583",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simple and easy to parsing iso8583 messages with configurable spec",
   "main": "index.js",
   "scripts": {

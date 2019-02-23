@@ -1,13 +1,13 @@
-# parser-iso8583
+# simple-iso8583
 simple and easy to parsing iso8583 messages with configurable spec
 
 **Installation**
 
-    npm install parser-iso8583
+    npm install simple-iso8583
  
 **API**
 
-    var iso8583 = require('parser-iso8583')
+    var iso8583 = require('simple-iso8583')
 
  **Spec Configuration**
  
